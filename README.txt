@@ -7,6 +7,15 @@ GitHub repo:
 git@github.com:nirgluzman/WebSocket-ChatApp.git
 
 
+Overview
+https://javascript.info/websocket
+
+
+WebSocket origin restriction (CORS)
+The protections provided by CORS don't apply to WebSockets.
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-8.0
+
+
 Node.js WebSocket library
 https://www.npmjs.com/package/ws
 
